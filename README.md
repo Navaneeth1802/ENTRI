@@ -44,9 +44,19 @@
 
 - Sonder(nyc) had 100k Listings with 1k Reviews
 - Blueground had 53k listings
-
+- 
 <h4>Filters</h4>
 
 - I had set a price filter slider where the price can be slided and set to greater than or equal to a specific value.
 - i had also set a Tile filter to select Neighbourhood.
+
+<h5> DASHBOARD</h5>
+<h6>Page 1</h6>
+<img src="https://github.com/user-attachments/assets/775e29f5-2d16-4973-b4a5-8cd3e91100d1">
+
+<h6>Page 2</h6>
+<img src="https://github.com/user-attachments/assets/ae25a53d-a7fb-4cc4-8fc2-4134ddfae644">
+
+
+
  
